@@ -1,0 +1,10 @@
+{
+  "description": "Captain Corgi",
+  "repo": "https://github.com/captain-corgi",
+  "owner": {
+    "username": "captain-corgi"
+  },
+  "record": {
+    "CNAME": "captain-corgi.github.io"
+  }
+}
